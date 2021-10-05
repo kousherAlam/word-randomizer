@@ -24,9 +24,10 @@ button{
 ul{
   list-style: none;
   li{
+    font-size: 2rem;
     float: left;
     padding: 5px 10px;
     font-weight: bolder;
-    text-transform: capitalize;
+    text-transform: uppercase;
   }
 }
