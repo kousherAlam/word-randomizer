@@ -1,0 +1,32 @@
+div{
+  text-align: center;
+  h1{
+    font-size: 4rem;
+    text-transform: uppercase;
+    padding: 20px 0px;
+  }
+  input{
+    width: 400px;
+    max-width: 100%;
+    font-size: 1.3rem;
+    padding: 10px;
+  }
+  button{
+    padding: 8px 100px;
+  }
+}
+
+button{
+  padding: 2px 5px;
+  margin-left: 3px;
+}
+
+ul{
+  list-style: none;
+  li{
+    float: left;
+    padding: 5px 10px;
+    font-weight: bolder;
+    text-transform: capitalize;
+  }
+}
